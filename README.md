@@ -1,6 +1,6 @@
 # **AFAC2024金融智能创新大赛**
 # AFAC2024-Advanced-Fintech-AI-Competition
-</div>[【官网链接】](https://tianchi.aliyun.com/specials/promotion/afac2024)
+[【官网链接】](https://tianchi.aliyun.com/specials/promotion/afac2024)
 
 
 
