@@ -83,7 +83,7 @@ ______
   
 ### 🏆 一等奖：拥抱AIGC  
 📃 分享文章  
-   https://mp.weixin.qq.com/s/4Zt3Knf0uEp2kUzxf8DD7w
+   https://mp.weixin.qq.com/s/4Zt3Knf0uEp2kUzxf8DD7w  
 🎬 答辩视频  
    https://www.bilibili.com/video/BV1Rb2wY9Ezz/?spm_id_from=333.999.0.0&vd_source=69d2699eca782cb1b3dc5a38a70dd1f5  
 📝 方案分享  
@@ -92,7 +92,7 @@ ______
 
 ### 🏆 二等奖：SpeechlessAI  
 📃 分享文章  
-   https://mp.weixin.qq.com/s/mjJp20iBmQcTZZly4C_tSA
+   https://mp.weixin.qq.com/s/mjJp20iBmQcTZZly4C_tSA  
 💻 分享代码（待更新）  
 
 ### 🏆 二等奖：DATAGURU  
@@ -140,14 +140,14 @@ ______
 
 初创组旨在发掘、培育并赋能具有颠覆性创新理念与前沿技术实力的初创团队及企业，以推动社会和产业的持续革新与健康发展。参赛者可聚焦于金融科技、智慧金融、数字生活生态等核心领域，结合多智能体框架、大模型技术、激发创新潜能。同时，也欢迎参赛者根据自身研究方向、研究热点等自行拟定选题。赛题共有五个方向，方向一：ESG报告智能解读与分析；方向二：金融事件的历史/实时识别与解读；方向三：投资策略智能探索；方向四：旅行规划智能助理；方向五：智能客服系统。  
   
-### 🏆 一等奖：智游幻境  
+### 🏆 二等奖：智游幻境  
 📃 分享文章  
    https://mp.weixin.qq.com/s/_xSQrZh8rvz8AccI-qM8gg  
 💻 项目介绍视频  
    https://www.bilibili.com/video/BV1Yqs8e4EnK/?spm_id_from=333.999.0.0&vd_source=69d2699eca782cb1b3dc5a38a70dd1f5  
 
   
-### 🏆 二等奖：goodbye1024  
+### 🏆 三等奖：goodbye1024  
 📃 分享文章  
 https://mp.weixin.qq.com/s/JzZG-8FKJntanZIr7U2Erg  
 💻 项目介绍视频  
@@ -159,7 +159,7 @@ https://mp.weixin.qq.com/s/JzZG-8FKJntanZIr7U2Erg
 
 随着金融业数字化发展，人工智能正在改变金融行业的运作和服务方式，推动行业向智能化、个性化和精准化发展。本次大赛旨在挖掘和激励中微小企业在金融科技领域的创新，关注新方向、新技术和新产品的发展，推动产业升级，培育具有高成长性和竞争力的项目。申报项目应符合金融科技在多个领域的应用，创新创意、思路和技术，同时具备可落地、可复制和可推广的特点，鼓励项目与实践结合，紧跟国家指导规划，体现行业应用融合。    
   
-### 🏆 二等奖：宁波深擎信息科技有限公司  
+### 🏆 一等奖：宁波深擎信息科技有限公司  
 📃 分享文章  
    https://mp.weixin.qq.com/s/N-vpDnr4pYZOT0hg7Q1jzQ  
 💻 项目介绍视频  
