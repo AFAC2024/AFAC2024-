@@ -27,17 +27,15 @@ ______
 
 
 
-### 🏆 二等奖：FNO_  
-📃 分享文章（待更新）  
+### 🏆 二等奖：FNO_    
 📝 方案分享  
    [FNO_v2.pdf](https://github.com/user-attachments/files/17470892/FNO_v2.pdf)  
 
   
 ### 🏆 二等奖：financial_agent  
-📃 分享文章（待更新）  
 🎬 答辩视频  
    https://www.bilibili.com/video/BV1R92xYREKF?spm_id_from=333.788.videopod.sections&vd_source=69d2699eca782cb1b3dc5a38a70dd1f5  
-💻 分享代码  
+💻 分享代码（待更新）  
 📝 方案分享  
    [AFAC2024金融智能创新大赛-金融工具学习-financial_agent.pdf](https://github.com/user-attachments/files/17470904/AFAC2024.-.-financial_agent.pdf)  
 
@@ -55,19 +53,21 @@ ______
    https://mp.weixin.qq.com/s/du216Gl1DJfUQBYSnJuD4g  
 🎬 答辩视频  
    https://www.bilibili.com/video/BV11G24YkEXn/?spm_id_from=333.999.0.0&vd_source=69d2699eca782cb1b3dc5a38a70dd1f5  
-💻 分享代码  
+💻 分享代码（待更新）  
 📝 方案分享  
   [AFAC2024金融智能创新大赛答辩-天然柠檬酸.pdf](https://github.com/user-attachments/files/17470934/AFAC2024.-.pdf)  
 
   
  ### 🏆二等奖：海贼王  
 📃 分享文章  
+   https://mp.weixin.qq.com/s/KkGxt3gVZqqINYbmSKh0Yg  
 📝 方案分享  
 [AFAC2024task2_海贼王.pdf](https://github.com/user-attachments/files/17470937/AFAC2024task2_.pdf)  
 
   
 ### 🏆 二等奖：游客jpcrpy3t7lzba  
 📃 分享文章  
+   https://mp.weixin.qq.com/s/sDfXjvOGQjgYO_Uhft6jYQ  
 🎬 答辩视频  
    https://www.bilibili.com/video/BV1uN24YEEdA?spm_id_from=333.788.videopod.sections&vd_source=69d2699eca782cb1b3dc5a38a70dd1f5  
 📝 方案分享  
@@ -83,6 +83,7 @@ ______
   
 ### 🏆 一等奖：拥抱AIGC  
 📃 分享文章  
+   https://mp.weixin.qq.com/s/4Zt3Knf0uEp2kUzxf8DD7w
 🎬 答辩视频  
    https://www.bilibili.com/video/BV1Rb2wY9Ezz/?spm_id_from=333.999.0.0&vd_source=69d2699eca782cb1b3dc5a38a70dd1f5  
 📝 方案分享  
@@ -91,13 +92,15 @@ ______
 
 ### 🏆 二等奖：SpeechlessAI  
 📃 分享文章  
-💻 分享代码  
+   https://mp.weixin.qq.com/s/mjJp20iBmQcTZZly4C_tSA
+💻 分享代码（待更新）  
 
 ### 🏆 二等奖：DATAGURU  
 📃 分享文章  
+   https://mp.weixin.qq.com/s/EIy8dooHsBJsqo_sYfcNkQ  
 🎬 答辩视频  
    https://www.bilibili.com/video/BV17s2wYtEG3/?spm_id_from=333.999.0.0&vd_source=69d2699eca782cb1b3dc5a38a70dd1f5  
-💻 分享代码  
+💻 分享代码（待更新）  
 📝 方案分享  
   [DATAGURU-AFAC2024金融智能创新大赛答辩_脱敏.pdf](https://github.com/user-attachments/files/17470977/DATAGURU-AFAC2024._.pdf)  
 
@@ -109,9 +112,10 @@ ______
   
 ### 🏆 一等奖：飞飞公主  
 📃 分享文章  
+   https://mp.weixin.qq.com/s/GqET1f1MUqbMbNHcFXF5Nw  
 🎬 答辩视频  
    https://www.bilibili.com/video/BV1LS2cYHEPu/?spm_id_from=333.999.0.0&vd_source=69d2699eca782cb1b3dc5a38a70dd1f5  
-💻 分享代码  
+💻 分享代码（待更新）  
 📝 方案分享  
   [金融规则长文本中的矛盾识别与漏洞发现飞飞公主.pdf](https://github.com/user-attachments/files/17470989/default.pdf)  
   
@@ -141,14 +145,14 @@ ______
    https://mp.weixin.qq.com/s/_xSQrZh8rvz8AccI-qM8gg  
 💻 项目介绍视频  
    https://www.bilibili.com/video/BV1Yqs8e4EnK/?spm_id_from=333.999.0.0&vd_source=69d2699eca782cb1b3dc5a38a70dd1f5  
-📝 方案分享  
+
   
 ### 🏆 二等奖：goodbye1024  
 📃 分享文章  
 https://mp.weixin.qq.com/s/JzZG-8FKJntanZIr7U2Erg  
 💻 项目介绍视频  
    https://www.bilibili.com/video/BV1Mys8eQEGC/?spm_id_from=333.999.0.0&vd_source=69d2699eca782cb1b3dc5a38a70dd1f5  
-📝 方案分享  
+
 
 
   ## [企业组](https://tianchi.aliyun.com/competition/entrance/532213)  
@@ -159,23 +163,22 @@ https://mp.weixin.qq.com/s/JzZG-8FKJntanZIr7U2Erg
 📃 分享文章  
    https://mp.weixin.qq.com/s/N-vpDnr4pYZOT0hg7Q1jzQ  
 💻 项目介绍视频  
-   
-📝 方案分享  
+   https://www.bilibili.com/video/BV1irmtYvEY1/?spm_id_from=333.999.0.0  
+  
   
 ### 🏆 二等奖：言生行(北京)科技有限公司  
 📃 分享文章  
 https://mp.weixin.qq.com/s/eejgKymCXLgjtBuEomY-mA    
 💻 项目介绍视频  
    https://www.bilibili.com/video/BV1Tms8eSE1i/?spm_id_from=333.999.0.0&vd_source=69d2699eca782cb1b3dc5a38a70dd1f5    
-📝 方案分享  
 
 
 ### 🏆 二等奖：平辅寅健康科技（上海）有限公司  
 📃 分享文章  
-    
+   https://www.bilibili.com/video/BV1PDmbYEEJU/?spm_id_from=333.999.0.0  
 💻 项目介绍视频  
-       
-📝 方案分享  
+   https://mp.weixin.qq.com/s/xQpckC3UKYjpONquSBCSZQ  
+
 ______
 
 ### 🤝  内容开放  
