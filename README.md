@@ -175,10 +175,23 @@ https://mp.weixin.qq.com/s/eejgKymCXLgjtBuEomY-mA
 
 ### 🏆 二等奖：平辅寅健康科技（上海）有限公司  
 📃 分享文章  
-   https://www.bilibili.com/video/BV1PDmbYEEJU/?spm_id_from=333.999.0.0  
-💻 项目介绍视频  
    https://mp.weixin.qq.com/s/xQpckC3UKYjpONquSBCSZQ  
+💻 项目介绍视频  
+   https://www.bilibili.com/video/BV1PDmbYEEJU/?spm_id_from=333.999.0.0  
 
+
+### 🏆 三等奖：浙江宗贸启明科技有限公司  
+📃 分享文章  
+https://mp.weixin.qq.com/s/pAxGZBo8WZxP7Egar1vBqw  
+💻 项目介绍视频  
+https://www.bilibili.com/video/BV1dCmtYPEmo/?spm_id_from=333.999.0.0  
+
+
+### 🏆 三等奖：慧安金科（北京）科技有限公司  
+📃 分享文章  
+https://mp.weixin.qq.com/s/6o4cp6sAEUJBMQ3YuoVo7g  
+💻 项目介绍视频  
+https://www.bilibili.com/video/BV1RymtYYEQJ/?spm_id_from=333.999.0.0  
 ______
 
 ### 🤝  内容开放  
@@ -200,6 +213,8 @@ ______
 💡 宁波深擎信息科技有限公司  
 💡 言生行(北京)科技有限公司   
 💡 平辅寅健康科技（上海）有限公司  
+💡 浙江宗贸启明科技有限公司  
+💡 慧安金科（北京）科技有限公司  
 
 💡 ... 更多贡献者  
   
